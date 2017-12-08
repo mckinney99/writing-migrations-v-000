@@ -1,0 +1,1 @@
+class ChangeBirthday < ActiveRecord::Migration
