@@ -4,6 +4,4 @@ class CreateStudents < ActiveRecord::Migration
       student.string :name
     end
   end
-end
-end
-end
+
